@@ -1,0 +1,122 @@
+@media all and (min-width: 850px){
+
+    .section-title{
+        font-size: 2.5rem;
+        margin-bottom: 5%;
+    }
+    
+    /************************ INTRO SECTION *************************/
+    #intro{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+    
+    #intro #intro-text{
+        margin: inherit;
+        margin-top: auto;
+        margin-bottom: auto;
+        margin-right: auto;
+    }
+    
+    #intro #profile-picture{
+        width: 15rem;
+        height: 15rem;
+        margin: inherit;
+        margin-top: auto;
+        margin-bottom: auto;
+        margin-left: auto;
+    }
+    
+    #intro #intro-picture{
+        padding-top: 0%;
+    }
+    
+    
+    /************************ PROJECTS SECTION *************************/
+    #projects{
+        padding-top: 5%;
+    }
+    
+    #projects .section-title{
+        margin-bottom: 5%;
+    }
+
+    .project-cover{
+        margin-bottom: inherit;
+    }
+
+     #projects .project-info{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 2rem;
+    }
+
+    /************************ EDUCATION SECTION *************************/
+    .education-container{
+        width: 30vw;
+    }
+
+    #education2{
+        top: 22vh;
+    }
+    
+    #education3{
+        top: 44vh;
+    }
+
+    /************************ EXPERIENCES SECTION *************************/
+    #experiences{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        max-width: inherit;
+        gap: 1rem 4rem;
+    }
+
+    .resume-item{
+        max-width: 400px;
+        margin: 1rem auto;
+    }
+
+    /************************ SKILLS SECTION *************************/
+    #skills #skills-logo{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+        gap: 2rem;
+    }
+
+    /************************ CONTACT SECTION *************************/
+    #contact-me{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    #contact-me>*{
+        margin:inherit;
+    }
+    
+    #contact-me h1{
+        text-align: left;
+    }
+    
+    #contact-me #contact-info{
+        margin-top: 0%;
+        text-align: left;
+        margin-left: auto;
+    }
+
+    /************************ MODAL *************************/
+
+    .modal .modal-container{
+        width: 100%;
+        height: 100%;
+        padding-bottom: 2rem;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    
+    
+}

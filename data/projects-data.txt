@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "title": "Twitter Clone",
+        "page": "twitter-clone.html"
+    },
+    {
+        "id": 2,
+        "title": "PULSE",
+        "page": "pulse.html"
+    },
+    {
+        "id": 3,
+        "title": "Travel Planner",
+        "page": "travel-planner.html"
+    },
+    {
+        "id": 4,
+        "title": "BotXO",
+        "page": "botxo.html"
+    },
+    {
+        "id": 5,
+        "title": "Magento",
+        "page": "magento.html"
+    },
+    {
+        "id": 6,
+        "title": "Daily UI Challenge",
+        "page": "dailyui.html"
+    },
+    {
+        "id": 7,
+        "title": "Lucky 7",
+        "page": "lucky7.html"
+    },
+    {
+        "id": 8,
+        "title": "Profil Github",
+        "page": "github.html"
+    },
+    {
+        "id": 9,
+        "title": "Illustrations",
+        "page": "illustrations.html"
+    }
+]
